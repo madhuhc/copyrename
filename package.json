@@ -1,0 +1,17 @@
+{
+  "name": "copyrename",
+  "version": "0.0.2",
+  "description": "Duplicate the same file from number 1 to 'count', file extention remains the same",
+  "main": "copyRename.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Copy",
+    "Rename",
+    "fs",
+    "path"
+  ],
+  "author": "Madhu H C",
+  "license": "MIT"
+}
